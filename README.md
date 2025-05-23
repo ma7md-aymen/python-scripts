@@ -1,1 +1,1 @@
-#some script for CTFs 
+# some script for CTFs 
